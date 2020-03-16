@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/marciosilveira/omnistack8/workflows/Node.js%20CI/badge.svg)
+
 # Semana OmniStack 8.0
 Projeto criado no treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile: NodeJS, ReactJS e React Native
 
